@@ -1,0 +1,150 @@
+##########################################################################
+Feature:avant
+Positive:1
+     My daughter has had iPhones for several years and says this Avant has it all over the iPhone.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:phone
+Positive:1
+     This is a great little phone.
+     review id:4
+
+
+Negative:1
+     This is a great little phone.
+     review id:4
+
+
+
+
+------------------------------------------------------------------------
+Feature:problems
+Positive:1
+     Waiting to see if anymore problems occur, so far, smooth sailing.
+     review id:3
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:picture quality
+Positive:1
+     Picture quality is good and storage and battery life aren't too bad.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:daughter
+Positive:1
+     My daughter has had iPhones for several years and says this Avant has it all over the iPhone.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:i
+Positive:1
+     Other than that I am very pleased with this phone!
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:unit
+
+Negative:1
+     I had to get a second unit before I could read, send multimedia messages.
+     review id:3
+
+
+
+
+------------------------------------------------------------------------
+Feature:side
+Positive:1
+     The only down side is that it sometimes has the ringer muted and I miss calls.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:ringer
+
+Negative:1
+     The only down side is that it sometimes has the ringer muted and I miss calls.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:coverage
+Positive:1
+     Process was easy and coverage seems good.
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:sailing
+Positive:1
+     Waiting to see if anymore problems occur, so far, smooth sailing.
+     review id:3
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:quality
+Positive:1
+     Picture quality is good and storage and battery life aren't too bad.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:years
+Positive:1
+     My daughter has had iPhones for several years and says this Avant has it all over the iPhone.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:complaint
+Positive:2
+     My only complaint really is that it didn't come with an FM radio.
+     review id:4
+
+     My only complaint really is that it didn't come with an FM radio.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+
+##########################################################################

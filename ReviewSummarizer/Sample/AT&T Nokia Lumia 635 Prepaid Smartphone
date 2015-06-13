@@ -1,0 +1,783 @@
+##########################################################################
+Feature:htc iphone
+
+Negative:1
+     Iphone 3g
+HTC Inspre 4g
+Iphone 4s
+Samsung S3
+
+I've seen the good and bad of both iOS and Android.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:phone
+Positive:8
+     This is my first Windows phone but I am a long-time smartphone user.
+     review id:1
+
+     The phone feels very solid in the hand.
+     review id:1
+
+     Not going to lie this phone feels cheap but it will surprise you once you turn it on and use it.
+     review id:2
+
+     I would buy this phone quick before the price goes or the phone reaches end of life and new one shows up for like $150 with same quality but "newer".
+     review id:2
+
+     First windows phone and NEVER going back to android.
+     review id:3
+
+     Seems to be built well and feels like a more expensive phone.
+     review id:4
+
+     Fantastic phone for someone not familiar with all the complicated things the high end phones do.
+     review id:5
+
+     Be sure - in it's own right, this phone will probably do far more than you will ever figure out unless you really are into all the latest technology.
+     review id:5
+
+
+Negative:3
+     I would buy this phone quick before the price goes or the phone reaches end of life and new one shows up for like $150 with same quality but "newer".
+     review id:2
+
+     Seems to be built well and feels like a more expensive phone.
+     review id:4
+
+     Feels like a more expensive phone and is solid.
+     review id:4
+
+
+
+
+------------------------------------------------------------------------
+Feature:technology
+Positive:1
+     Be sure - in it's own right, this phone will probably do far more than you will ever figure out unless you really are into all the latest technology.
+     review id:5
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:plastic
+
+Negative:1
+     I did notice some very minor plastic clicking from the back cover when the phone is held in the landscape orientation and some torquing force is applied.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:recognition
+Positive:1
+     Very good voice recognition.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:everything
+Positive:1
+     Everything looks bright and crisp until you view black text on with backgrounds, not a deal breaker of course, but worth noting.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:cover
+
+Negative:1
+     I did notice some very minor plastic clicking from the back cover when the phone is held in the landscape orientation and some torquing force is applied.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:battery life
+Positive:1
+     Nokia usually has a good rep for cheap but good phones with long battery life.
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:someone
+Positive:1
+     Fantastic phone for someone not familiar with all the complicated things the high end phones do.
+     review id:5
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:value
+Positive:2
+     Outstanding value for the money spent.
+     review id:5
+
+     Outstanding value for the money spent.
+     review id:5
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:lumia
+Positive:1
+     I have been using my new Nokia Lumia 635 for about a week and I must say, I am VERY impressed.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:processor
+Positive:1
+     The OS is lightning fast and that processor is great.
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:right
+Positive:1
+     Be sure - in it's own right, this phone will probably do far more than you will ever figure out unless you really are into all the latest technology.
+     review id:5
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:att post
+Positive:1
+     Able to use with my ATT post paid account.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:os
+Positive:1
+     The OS is lightning fast and that processor is great.
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:screen
+
+Negative:3
+     The Screen: I knew going into this that the device had a sub-par, low resolution screen.
+     review id:1
+
+     The Screen: I knew going into this that the device had a sub-par, low resolution screen.
+     review id:1
+
+     Like being able to arrange tiles to have what I need on the front screen.
+     review id:4
+
+
+
+
+------------------------------------------------------------------------
+Feature:text
+Positive:1
+     Your results will very of course but for whatever its worth I text a lot, very few phone calls, check lots of email(syncing three account) and check facebook/twitter a bit.
+     review id:1
+
+
+Negative:1
+     Everything looks bright and crisp until you view black text on with backgrounds, not a deal breaker of course, but worth noting.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:phone store
+Positive:1
+     The Windows phone app store does not even begin to compare to the app stores of iOS and Android.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:nokia
+Positive:1
+     Nokia usually has a good rep for cheap but good phones with long battery life.
+     review id:2
+
+
+Negative:2
+     I don't know what kind of voodoo magic Nokia is using but the screen is impressive for such a low resolution display.
+     review id:1
+
+     I don't know what kind of voodoo magic Nokia is using but the screen is impressive for such a low resolution display.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:windows
+Positive:1
+     Pro's: Windows 8.1 is fast and can I can sync laptop and desktop with phone.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:display
+Positive:1
+     I don't know what kind of voodoo magic Nokia is using but the screen is impressive for such a low resolution display.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:size
+
+Negative:1
+     Being able to adjust the size of the tiles makes it nice if you have big fingers.
+     review id:4
+
+
+
+
+------------------------------------------------------------------------
+Feature:resolution screen
+
+Negative:2
+     The Screen: I knew going into this that the device had a sub-par, low resolution screen.
+     review id:1
+
+     The Screen: I knew going into this that the device had a sub-par, low resolution screen.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:price
+Positive:1
+     I would buy this phone quick before the price goes or the phone reaches end of life and new one shows up for like $150 with same quality but "newer".
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:fingers
+Positive:1
+     Being able to adjust the size of the tiles makes it nice if you have big fingers.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:apps
+Positive:1
+     Con's: Not as many apps for Windows 8.1 as for android or I-phone so currently no app to connect to HBO GO or Google Chromecast that I could find anyway.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:quality
+
+Negative:1
+     I would buy this phone quick before the price goes or the phone reaches end of life and new one shows up for like $150 with same quality but "newer".
+     review id:2
+
+
+
+
+------------------------------------------------------------------------
+Feature:end phones
+Positive:2
+     Fantastic phone for someone not familiar with all the complicated things the high end phones do.
+     review id:5
+
+     Fantastic phone for someone not familiar with all the complicated things the high end phones do.
+     review id:5
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:talk service
+Positive:1
+     Just got this phone yesterday and activated it on straight talk service, was very easy to set up and use.
+     review id:3
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:devices
+Positive:1
+     I would always have to charge my other devices mid-day.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:par screen
+
+Negative:2
+     The Screen: I knew going into this that the device had a sub-par, low resolution screen.
+     review id:1
+
+     The Screen: I knew going into this that the device had a sub-par, low resolution screen.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:thing
+Positive:1
+     This thing has tons of juice.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:does
+Positive:1
+     Does have app for Dish Anywhere though.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:micro slot
+Positive:1
+     Micro SD car slot should help you out with space issue.
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:windows phone
+Positive:2
+     This is my first Windows phone but I am a long-time smartphone user.
+     review id:1
+
+     First windows phone and NEVER going back to android.
+     review id:3
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:g iphone
+
+Negative:2
+     Iphone 3g
+HTC Inspre 4g
+Iphone 4s
+Samsung S3
+
+I've seen the good and bad of both iOS and Android.
+     review id:1
+
+     Iphone 3g
+HTC Inspre 4g
+Iphone 4s
+Samsung S3
+
+I've seen the good and bad of both iOS and Android.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:fare
+Positive:1
+     Pretty good battery life so fare but it is still new.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:resolution
+
+Negative:1
+     I don't know what kind of voodoo magic Nokia is using but the screen is impressive for such a low resolution display.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:car slot
+Positive:1
+     Micro SD car slot should help you out with space issue.
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:time user
+Positive:1
+     This is my first Windows phone but I am a long-time smartphone user.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:phones
+Positive:3
+     I've tested with a few different phones and they all sounded tinny but had no complaints on how I sounded.
+     review id:1
+
+     Fantastic phone for someone not familiar with all the complicated things the high end phones do.
+     review id:5
+
+     Fantastic phone for someone not familiar with all the complicated things the high end phones do.
+     review id:5
+
+
+Negative:1
+     Nokia usually has a good rep for cheap but good phones with long battery life.
+     review id:2
+
+
+
+
+------------------------------------------------------------------------
+Feature:tiles
+Positive:1
+     Like being able to arrange tiles to have what I need on the front screen.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:life
+Positive:1
+     Nokia usually has a good rep for cheap but good phones with long battery life.
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:toy
+
+Negative:1
+     Build Quality: For less than $100 I was expecting a cheap, plastic, toy-like phone.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:windows store
+Positive:1
+     The Windows phone app store does not even begin to compare to the app stores of iOS and Android.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:slot
+Positive:1
+     Micro SD car slot should help you out with space issue.
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:end
+Positive:1
+     I would buy this phone quick before the price goes or the phone reaches end of life and new one shows up for like $150 with same quality but "newer".
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:post
+Positive:1
+     Able to use with my ATT post paid account.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:cable
+
+Negative:1
+     Purchased a cheap USB cable to connect to desktop and works great for d/l pic's.
+     review id:4
+
+
+
+
+------------------------------------------------------------------------
+Feature:inspre iphone
+
+Negative:1
+     Iphone 3g
+HTC Inspre 4g
+Iphone 4s
+Samsung S3
+
+I've seen the good and bad of both iOS and Android.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:iphone
+
+Negative:1
+     Iphone 3g
+HTC Inspre 4g
+Iphone 4s
+Samsung S3
+
+I've seen the good and bad of both iOS and Android.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:cortana
+Positive:1
+     Cortana is their version of SIRI but it's not horrible.
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:i
+Positive:3
+     Overall, I am very pleased with my purchase and I will try to touch on a few things, good and bad, that stood out to me.
+     review id:1
+
+     I own an Android tablet so I am able to make due using the tablet for apps I need, but this may be an issue for some.
+     review id:1
+
+     Overall I am very pleased with this phone, any aspects I didn't mention are preforming well and I felt I didn't need to break down every feature of the phone.
+     review id:1
+
+
+Negative:1
+     I was dead wrong.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:smartphone user
+Positive:1
+     This is my first Windows phone but I am a long-time smartphone user.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:app store
+Positive:1
+     The Windows phone app store does not even begin to compare to the app stores of iOS and Android.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:sd slot
+Positive:1
+     Micro SD car slot should help you out with space issue.
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:voice recognition
+Positive:1
+     Very good voice recognition.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:service
+Positive:1
+     Just got this phone yesterday and activated it on straight talk service, was very easy to set up and use.
+     review id:3
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:plastic toy
+
+Negative:1
+     Build Quality: For less than $100 I was expecting a cheap, plastic, toy-like phone.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:device
+Positive:1
+     The Screen: I knew going into this that the device had a sub-par, low resolution screen.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:nokia lumia
+Positive:1
+     I have been using my new Nokia Lumia 635 for about a week and I must say, I am VERY impressed.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:account
+
+Negative:1
+     Your results will very of course but for whatever its worth I text a lot, very few phone calls, check lots of email(syncing three account) and check facebook/twitter a bit.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:things
+Positive:1
+     Overall, I am very pleased with my purchase and I will try to touch on a few things, good and bad, that stood out to me.
+     review id:1
+
+
+Negative:1
+     Fantastic phone for someone not familiar with all the complicated things the high end phones do.
+     review id:5
+
+
+
+
+------------------------------------------------------------------------
+Feature:user
+Positive:1
+     This is my first Windows phone but I am a long-time smartphone user.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:iphone iphone
+
+Negative:1
+     Iphone 3g
+HTC Inspre 4g
+Iphone 4s
+Samsung S3
+
+I've seen the good and bad of both iOS and Android.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:rep
+Positive:1
+     Nokia usually has a good rep for cheap but good phones with long battery life.
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+
+##########################################################################

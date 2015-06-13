@@ -1,0 +1,315 @@
+##########################################################################
+Feature:phone
+Positive:3
+     The phone is absolutely awesome.
+     review id:2
+
+     I also wish that my brand new phone looked BRAND NEW.
+     review id:4
+
+     I also wish that my brand new phone looked BRAND NEW.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:choice
+Positive:1
+     I don't tend to trust companies I never heard of, and would have made a difference choice had I known that.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:one
+Positive:1
+     one for At&t and one for straight talk...camera is clear and easy to use.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:difference choice
+Positive:1
+     I don't tend to trust companies I never heard of, and would have made a difference choice had I known that.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:messages
+Positive:1
+     One handy feature that some of the cheaper phones from straight talk didn't have...I can set this phone up to have both my school and personal emails notify me when I get new messages.
+     review id:3
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:info
+Positive:1
+     PS: By the way, all the info on the phone box is in Spanish.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:phones
+Positive:1
+     Great phones.
+     review id:2
+
+
+Negative:1
+     One handy feature that some of the cheaper phones from straight talk didn't have...I can set this phone up to have both my school and personal emails notify me when I get new messages.
+     review id:3
+
+
+
+
+------------------------------------------------------------------------
+Feature:unlocked
+Positive:1
+     I recently got my Samsung Galaxy S4 Mini Unlocked.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:setup questions
+
+Negative:1
+     If you aren't super tech savvy, expect to have to use a computer to Google inevitable setup questions.
+     review id:3
+
+
+
+
+------------------------------------------------------------------------
+Feature:shots
+
+Negative:1
+     Still blurry scene shots which my 5 mp did a better job on.
+     review id:5
+
+
+
+
+------------------------------------------------------------------------
+Feature:mini unlocked
+Positive:1
+     I recently got my Samsung Galaxy S4 Mini Unlocked.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:feature
+Positive:1
+     One handy feature that some of the cheaper phones from straight talk didn't have...I can set this phone up to have both my school and personal emails notify me when I get new messages.
+     review id:3
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:walmart
+Positive:1
+     Love that Walmart is selling them though good price and very good service and mailing covered insurance.
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:grandson
+Positive:1
+     My grandson has the 5 Galaxy and loves it too.
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:talk
+Positive:3
+     one for At&t and one for straight talk...camera is clear and easy to use.
+     review id:1
+
+     A little complicated to get set up for straight talk, especially getting the mobile data working.
+     review id:3
+
+     One handy feature that some of the cheaper phones from straight talk didn't have...I can set this phone up to have both my school and personal emails notify me when I get new messages.
+     review id:3
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:brand phone
+Positive:2
+     I also wish that my brand new phone looked BRAND NEW.
+     review id:4
+
+     I also wish that my brand new phone looked BRAND NEW.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:mp
+Positive:1
+     Still blurry scene shots which my 5 mp did a better job on.
+     review id:5
+
+
+Negative:1
+     Nope...
+also disappointed in the camera... i knew it wouldn't be as good as my Sony but thought it would be bette then the 5mp on my last galaxy.
+     review id:5
+
+
+
+
+------------------------------------------------------------------------
+Feature:job
+Positive:1
+     Still blurry scene shots which my 5 mp did a better job on.
+     review id:5
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:questions
+
+Negative:1
+     If you aren't super tech savvy, expect to have to use a computer to Google inevitable setup questions.
+     review id:3
+
+
+
+
+------------------------------------------------------------------------
+Feature:emails
+Positive:1
+     One handy feature that some of the cheaper phones from straight talk didn't have...I can set this phone up to have both my school and personal emails notify me when I get new messages.
+     review id:3
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:reception
+Positive:1
+     We need to get on the Verizon towers with Straighttalk so we have adequate reception for our phones.
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:scene shots
+
+Negative:1
+     Still blurry scene shots which my 5 mp did a better job on.
+     review id:5
+
+
+
+
+------------------------------------------------------------------------
+Feature:price
+Positive:1
+     Love that Walmart is selling them though good price and very good service and mailing covered insurance.
+     review id:2
+
+
+Negative:1
+     Love that Walmart is selling them though good price and very good service and mailing covered insurance.
+     review id:2
+
+
+
+
+------------------------------------------------------------------------
+Feature:service
+Positive:1
+     Love that Walmart is selling them though good price and very good service and mailing covered insurance.
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:sim
+
+Negative:1
+     I put dual sim and work great!
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:brand
+Positive:1
+     Curiously, it didn't look brand new.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:repairs
+Positive:2
+     In the package I received the phone in, there was card from CCR (Consumer Certified Repairs), the company that offers the 1 year warranty for this phone.
+     review id:4
+
+     In the package I received the phone in, there was card from CCR (Consumer Certified Repairs), the company that offers the 1 year warranty for this phone.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:galaxy
+
+Negative:1
+     Nope...
+also disappointed in the camera... i knew it wouldn't be as good as my Sony but thought it would be bette then the 5mp on my last galaxy.
+     review id:5
+
+
+
+
+------------------------------------------------------------------------
+
+##########################################################################

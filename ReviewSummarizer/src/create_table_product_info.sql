@@ -1,0 +1,1 @@
+create table PRODUCT_INFO (id int NOT NULL, name varchar(255), avg_rating float, category varchar(255), PRIMARY KEY (id));

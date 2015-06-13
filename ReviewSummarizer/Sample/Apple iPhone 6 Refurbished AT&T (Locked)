@@ -1,0 +1,298 @@
+##########################################################################
+Feature:phone
+Positive:2
+     The phone looks brand new and has no scratches at all.
+     review id:1
+
+     However, upon opening the package, the box the phone came in was damaged and scuffed.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:quality products
+Positive:1
+     I had ordered the refurbished iPhone based on the previous reviews stating high quality products and full functionality.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:card
+Positive:2
+     No SIM card included, but one can easily obtain a new SIM card from the AT&T Store without charge.
+     review id:5
+
+     No SIM card included, but one can easily obtain a new SIM card from the AT&T Store without charge.
+     review id:5
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:att sim
+Positive:1
+     I use my iPhone with straight talk using the att compatible nano sim.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:experience
+Positive:1
+     But it turned out to be a great experience.
+     review id:3
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:adapter portion
+Positive:1
+     Specifically, the lightning cable was twisted, dirty, and bent/crimped (like an "L") around the actual adapter portion which plugs into the phone.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:products
+Positive:1
+     I had ordered the refurbished iPhone based on the previous reviews stating high quality products and full functionality.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:talk
+Positive:1
+     I use my iPhone with straight talk using the att compatible nano sim.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:portion
+Positive:1
+     Specifically, the lightning cable was twisted, dirty, and bent/crimped (like an "L") around the actual adapter portion which plugs into the phone.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:nano sim
+Positive:1
+     I use my iPhone with straight talk using the att compatible nano sim.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:scratch
+Positive:1
+     Phone did not have a single scratch.
+     review id:3
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:functionality
+Positive:1
+     I had ordered the refurbished iPhone based on the previous reviews stating high quality products and full functionality.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:reviews
+Positive:1
+     All the other reviews were dead on..
+     review id:2
+
+
+Negative:2
+     All the other reviews were dead on..
+     review id:2
+
+     I had ordered the refurbished iPhone based on the previous reviews stating high quality products and full functionality.
+     review id:4
+
+
+
+
+------------------------------------------------------------------------
+Feature:condition
+Positive:1
+     The phone itself appears to be in good condition, no scratches and seems to function properly.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:problem
+Positive:1
+     Hopefully the phone continues to be problem free.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:customer service
+
+Negative:1
+     Questionable customer service in resolving the issue from the 3rd party company.
+     review id:4
+
+
+
+
+------------------------------------------------------------------------
+Feature:i
+
+Negative:3
+     I was nervous to purchase a refurbished phone that is this expensive but my fears were unfounded.
+     review id:1
+
+     I was sceptical to buy a refurb product.
+     review id:3
+
+     I was unable to charge the phone for several days until a friend managed to lend me their charging cable, in which i discovered the wall adapter itself had been broken.
+     review id:4
+
+
+
+
+------------------------------------------------------------------------
+Feature:conditions
+Positive:1
+     Received on time in excellent conditions, just like a new one.
+     review id:5
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:days
+Positive:1
+     I was unable to charge the phone for several days until a friend managed to lend me their charging cable, in which i discovered the wall adapter itself had been broken.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:fears
+
+Negative:1
+     I was nervous to purchase a refurbished phone that is this expensive but my fears were unfounded.
+     review id:1
+
+
+
+
+------------------------------------------------------------------------
+Feature:service
+
+Negative:1
+     Questionable customer service in resolving the issue from the 3rd party company.
+     review id:4
+
+
+
+
+------------------------------------------------------------------------
+Feature:sim
+Positive:1
+     I use my iPhone with straight talk using the att compatible nano sim.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:brand
+Positive:1
+     The phone looks brand new and has no scratches at all.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:factory
+Positive:1
+     Factory sealed...
+     review id:2
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:box
+Positive:2
+     Also came in an apple box with accessories.
+     review id:1
+
+     It came in original box, with all the accessories.
+     review id:3
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:sim card
+Positive:2
+     No SIM card included, but one can easily obtain a new SIM card from the AT&T Store without charge.
+     review id:5
+
+     No SIM card included, but one can easily obtain a new SIM card from the AT&T Store without charge.
+     review id:5
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:friend
+
+Negative:1
+     I was unable to charge the phone for several days until a friend managed to lend me their charging cable, in which i discovered the wall adapter itself had been broken.
+     review id:4
+
+
+
+
+------------------------------------------------------------------------
+
+##########################################################################

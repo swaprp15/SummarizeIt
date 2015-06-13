@@ -1,0 +1,143 @@
+##########################################################################
+Feature:us samsung
+Positive:1
+     US Samsung will not support this phone.
+     review id:4
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:phone
+Positive:5
+     This phone is great.
+     review id:1
+
+     Hi ,
+
+The phone seems to be good as expected , but the I expected 16 GB of space but I see 8 GB of space , other than that the phone is good ,
+
+Regards
+     review id:3
+
+     The phone had many features that would not work.
+     review id:4
+
+     The charger fell apart the first time it was plugged in!!
+
+Walmart should make it clear on the add where the phone is from!!
+     review id:4
+
+     I spent $500 on this phone (tax included) it's a good phone but when it plays videos theres lines through the screen.
+     review id:5
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:charger
+
+Negative:1
+     The charger fell apart the first time it was plugged in!!
+
+Walmart should make it clear on the add where the phone is from!!
+     review id:4
+
+
+
+
+------------------------------------------------------------------------
+Feature:hi phone
+Positive:1
+     Hi ,
+
+The phone seems to be good as expected , but the I expected 16 GB of space but I see 8 GB of space , other than that the phone is good ,
+
+Regards
+     review id:3
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:regards
+Positive:1
+     Hi ,
+
+The phone seems to be good as expected , but the I expected 16 GB of space but I see 8 GB of space , other than that the phone is good ,
+
+Regards
+     review id:3
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:size
+Positive:1
+     The screen is the right size for texting for big fingers .
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:time
+Positive:1
+     The charger fell apart the first time it was plugged in!!
+
+Walmart should make it clear on the add where the phone is from!!
+     review id:4
+
+
+Negative:1
+     The charger fell apart the first time it was plugged in!!
+
+Walmart should make it clear on the add where the phone is from!!
+     review id:4
+
+
+
+
+------------------------------------------------------------------------
+Feature:fingers
+Positive:1
+     The screen is the right size for texting for big fingers .
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:the phone
+Positive:1
+     Hi ,
+
+The phone seems to be good as expected , but the I expected 16 GB of space but I see 8 GB of space , other than that the phone is good ,
+
+Regards
+     review id:3
+
+
+
+
+
+------------------------------------------------------------------------
+Feature:features
+Positive:1
+     It has cool features such as front facing camera.
+     review id:1
+
+
+
+
+
+------------------------------------------------------------------------
+
+##########################################################################
