@@ -67,6 +67,12 @@ public class StanfordDependencyParser implements DependencyParser {
 		
 		return false;
 	}
+	
+	private boolean isValidFeature(String feature)
+	{
+		return !pronounsList.contains(feature)
+		&& !stopWordsFilter.isStopWord(feature) && feature.length() > 2 && !JunkFeaturePruner.isJunkFeature(feature);
+	}
 
 	public Sentence parse(final Sentence sentence) {
 
@@ -157,8 +163,8 @@ public class StanfordDependencyParser implements DependencyParser {
 				for (Dependency nsubjDep : nsubjDeps) {
 					if (nnDep.getGoverner().getWordNumber() == nsubjDep
 							.getDependent().getWordNumber()) {
-						if (!pronounsList.contains(feature)
-								&& !stopWordsFilter.isStopWord(feature)) {
+						
+						if (isValidFeature(feature)) {
 
 							String opinion = nsubjDep.getGoverner().getLabel();
 							foPair.setFeature(feature);
@@ -171,8 +177,7 @@ public class StanfordDependencyParser implements DependencyParser {
 				for (Dependency amodDep : amodDeps) {
 					if (nnDep.getGoverner().getWordNumber() == amodDep
 							.getGoverner().getWordNumber()) {
-						if (!pronounsList.contains(feature)
-								&& !stopWordsFilter.isStopWord(feature)) {
+						if (isValidFeature(feature)) {
 
 							String opinion = amodDep.getDependent().getLabel();
 							foPair.setFeature(feature);
@@ -191,7 +196,7 @@ public class StanfordDependencyParser implements DependencyParser {
 						.toLowerCase();
 				
 				if (pronounsList.contains(feature)
-						|| stopWordsFilter.isStopWord(feature))
+						|| stopWordsFilter.isStopWord(feature) || feature.length() < 3)
 					continue;
 				
 				boolean alreadyAdded = false;
@@ -199,8 +204,7 @@ public class StanfordDependencyParser implements DependencyParser {
 				for (Dependency dep : negDeps) {
 					if (nsubjDep.getGoverner().getWordNumber() == dep
 							.getGoverner().getWordNumber()) {
-						if (!pronounsList.contains(feature)
-								&& !stopWordsFilter.isStopWord(feature)) {
+						if (isValidFeature(feature)) {
 
 							String opinion = dep.getDependent().getLabel()
 									+ " " + nsubjDep.getGoverner().getLabel();
@@ -287,18 +291,22 @@ public class StanfordDependencyParser implements DependencyParser {
 				Dependency nsubjDep = nsubjItr.next();
 				String feature = nsubjDep.getDependent().getLabel()
 						.toLowerCase();
-				String opinion = nsubjDep.getGoverner().getLabel();
 				
-				if(!nsubjDep.getGoverner().getTag().contains("JJ") && !nsubjDep.getDependent().getTag().contains("NN"))
+				if(feature.length() < 3)
 					continue;
 				
-				if (!pronounsList.contains(feature)
-						|| !stopWordsFilter.isStopWord(feature)) {
-
-					FeatureOpinionPair fopair = new FeatureOpinionPair();
-					fopair.setFeature(feature);
-					fopair.setOpinion(opinion);
-					sentence.addFeatureOpinionPair(fopair);
+				String opinion = nsubjDep.getGoverner().getLabel();
+				
+				if( nsubjDep.getGoverner().getTag().contains("JJ") && nsubjDep.getDependent().getTag().contains("NN") )
+				{
+				
+					if (isValidFeature(feature)) {
+	
+						FeatureOpinionPair fopair = new FeatureOpinionPair();
+						fopair.setFeature(feature);
+						fopair.setOpinion(opinion);
+						sentence.addFeatureOpinionPair(fopair);
+					}
 				}
 			}
 
@@ -307,6 +315,9 @@ public class StanfordDependencyParser implements DependencyParser {
 			while (amodItr.hasNext()) {
 				Dependency amodDep = amodItr.next();
 				String feature = amodDep.getGoverner().getLabel().toLowerCase();
+				
+				if(feature.length() < 3)
+					continue;
 				
 				if (pronounsList.contains(feature)
 						|| stopWordsFilter.isStopWord(feature))
@@ -317,8 +328,7 @@ public class StanfordDependencyParser implements DependencyParser {
 				for (Dependency dep : negDeps) {
 					if (amodDep.getGoverner().getWordNumber() == dep
 							.getGoverner().getWordNumber()) {
-						if (!pronounsList.contains(feature)
-								|| !stopWordsFilter.isStopWord(feature)) {
+						if (isValidFeature(feature)) {
 
 							String opinion = dep.getDependent().getLabel()
 									+ " " + amodDep.getDependent().getLabel();
@@ -417,9 +427,12 @@ public class StanfordDependencyParser implements DependencyParser {
 			while (amodItr.hasNext()) {
 				Dependency amodDep = amodItr.next();
 				String feature = amodDep.getGoverner().getLabel().toLowerCase();
+				
+				if(feature.length() < 3)
+					continue;
+				
 				String opinion = amodDep.getDependent().getLabel();
-				if (!pronounsList.contains(feature)
-						|| !stopWordsFilter.isStopWord(feature)) {
+				if (isValidFeature(feature)) {
 
 					FeatureOpinionPair fopair = new FeatureOpinionPair();
 					fopair.setFeature(feature);
@@ -478,7 +491,7 @@ public class StanfordDependencyParser implements DependencyParser {
 		// "Apart from all these this device is not that bad in this price amount especially after a self renowned branded company followed by Samsung!");
 
 		List<Sentence> sentences = tokenizer
-				.toSentences("One of the best books on India's recent history.");
+				.toSentences("This phone is very good. I live in the woods and I get a good signal all the time no problem. It never cuts out and you don't have to charge it a lot. Maybe once a day. Screen very clear and games come it great. The games come in faster on it then my computer. Pictures are nice color when you take them. Has good storage space for apps.. I recommend this phone. I have always had good luck with motorola products.");
 
 		System.out.println("***** all feature opinion pairs: *****");
 

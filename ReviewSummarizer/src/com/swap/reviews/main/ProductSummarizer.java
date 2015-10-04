@@ -22,7 +22,7 @@ public class ProductSummarizer {
 	private DependencyParser dependencyParser = new StanfordDependencyParser();
 	private SentimentAnalyzer sentimentAnalyzer = new SentimentAnalyzer();
 	//private FrequentPatternMining frequentPatternMining = new FrequentPatternMining();
-	private JunkFeaturePruner junkFeaturePruner = new JunkFeaturePruner("junk_features.txt");
+	//private JunkFeaturePruner junkFeaturePruner = new JunkFeaturePruner("junk_features.txt");
 	
 	//use only if FPM is used
 	//private RedundantFeaturePruner redundantFeaturePruner = new RedundantFeaturePruner(3);
@@ -83,8 +83,8 @@ public class ProductSummarizer {
 		featuresRepository.saveProductFeatures(productId, allFeatures, featuresAfterPruningRedundantFeatures);
 		 */
 		
-		List<String> featuresAfterPruningJunk = junkFeaturePruner.pruneJunkFeatures(allFeatures);
-		System.out.println("frequent features after pruning junk:" + featuresAfterPruningJunk.size());
+		//List<String> featuresAfterPruningJunk = junkFeaturePruner.pruneJunkFeatures(allFeatures);
+		//System.out.println("frequent features after pruning junk:" + featuresAfterPruningJunk.size());
 		
 		//List<String> featuresAfterPruningRedundantFeatures = redundantFeaturePruner.pruneRedundantFeatures(featuresAfterPruningJunk, productId);
 		//System.out.println("frequent features after pruning redundancy:" + featuresAfterPruningRedundantFeatures.size());

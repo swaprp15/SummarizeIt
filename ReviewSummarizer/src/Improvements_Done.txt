@@ -1,0 +1,8 @@
+Improvements Done
+1. A noun is considered feature only if it is accompanied by adjective.
+2. Neglected one letter features.
+
+To Do
+Check is the feature is present in the product name
+Apply frequent item set mining
+

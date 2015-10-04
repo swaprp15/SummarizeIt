@@ -128,9 +128,9 @@ public class SimpleProductInfoCrawler implements ProductInfoCrawler {
 	private ProductJSON GetJSON(final int productId)
 	{
 		try  {
-			//CloseableHttpClient httpClient = HttpClientBuilder.create().build();
+			CloseableHttpClient httpClient = HttpClientBuilder.create().build();
 			
-			DefaultHttpClient httpClient = new DefaultHttpClient();
+			//DefaultHttpClient httpClient = new DefaultHttpClient();
 			
 		    HttpGet request = new HttpGet(String.format(Constants.urlFormat, productId, apiKey));
 		    //StringEntity params = new StringEntity(body);
@@ -161,6 +161,9 @@ public class SimpleProductInfoCrawler implements ProductInfoCrawler {
 		ProductInfo productInfo = new ProductInfo();
 
 		ProductJSON productJSON = GetJSON(productId);
+		
+		if(productJSON == null)
+			return null;
 		
 		// parse JSON and fill product Info
 		productInfo.setId(productId);

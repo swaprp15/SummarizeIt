@@ -13,7 +13,13 @@ public class Main {
 		
 		ProductInfoCrawler crawler = new SimpleProductInfoCrawler();
 		
-		int productId = 42104299;
+		if(args.length < 1)
+		{
+			System.out.println("Usage: Main <product_id>");
+			return;
+		}
+		
+		int productId = Integer.parseInt(args[0]);
 		
 		ProductInfo productInfo = crawler.crawlProductInfo(productId);
 		

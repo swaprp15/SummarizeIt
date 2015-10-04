@@ -14,11 +14,7 @@ function getReviewsSummary()
 		success:function(data) {
 		 summaryData = data;
 		 drawChart(summaryData);
-		},
-		error: function(xhr, error){
-	        alert('Status' + xhr.status);
 		}
-
 		});
 }
 
@@ -26,6 +22,8 @@ function drawChart(summaryData)
 {
 	
 	google.load("visualization", "1", {packages:["corechart"], "callback": drawBarChart});
+	
+	document.getElementById('productName').innerText = summaryData.productName;
 	
     function drawBarChart() {
     	
@@ -60,5 +58,7 @@ function drawChart(summaryData)
 
         var chart = new google.visualization.BarChart(document.getElementById('barchart'));
         chart.draw(data, options);
+        
+        
       }
 }
